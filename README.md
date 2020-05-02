@@ -1,0 +1,1 @@
+# nopcommerce-turkish-language-pack
